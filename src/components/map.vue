@@ -49,7 +49,7 @@ export default {
           type: 'map',
           map: this.mapName,
           zoom: 1,
-          roam: true,
+          // roam: true,
           label: {
             normal: {
               show: false,
