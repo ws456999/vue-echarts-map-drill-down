@@ -6,6 +6,10 @@ echarts map drill down in vue, Inspired by [echarts-drill-down](https://github.c
 
 Echarts3 中国地图下钻
 
+### live demo
+
+[click here](https://ws456999.github.io/vue-echarts-map-drill-down/#/)
+
 ## preview
 
 ![drill down](./static/demo.gif)
